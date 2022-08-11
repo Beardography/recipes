@@ -43,8 +43,7 @@ h2 {
 h3 {
   font-size: 1.5rem;
   font-weight: 700;
-  line-height: 1.2;
-  margin: 0.75rem auto;
+  margin: 2rem auto 0.5rem auto;
 }
 
 h4 {
@@ -58,6 +57,7 @@ h5 {
   font-weight: 600;
   line-height: 1.2;
   margin-top: 2rem;
+  margin-bottom: 4rem;
 }
 
 h6 {
@@ -92,12 +92,8 @@ body {
 a {
   color: #78dce8;
 }
-a:hover {
-  color: lightcoral;
-}
 
 ul {
-  list-style: none;
   margin-bottom: 1rem;
   -webkit-padding-start: 1.5rem;
           padding-inline-start: 1.5rem;

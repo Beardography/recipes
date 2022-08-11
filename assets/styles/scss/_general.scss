@@ -7,14 +7,10 @@ body {
 
 a {
     color: $blue-500;
-
-    &:hover {
-        color: lightcoral;
-    }
 }
 
 ul {
-    list-style: none;
+    // list-style: none;
     margin-bottom: 1rem;
     padding-inline-start: 1.5rem;
 
