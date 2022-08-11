@@ -39,6 +39,20 @@ div {
     }
 }
 
+h2 {
+    transition: all 300ms ease;
+
+    &:hover {
+        color: $red;
+    }
+
+    a {
+        color: $orange;
+        text-decoration: none;
+        cursor: default;
+    }
+}
+
 h3 {
     a {
         color: $orange;
