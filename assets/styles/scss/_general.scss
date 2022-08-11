@@ -1,8 +1,68 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: $black;
+    color: $white;
+    width: 800px;
+    margin: 0 auto;
 }
 
 a {
-    color: white;
+    color: $blue-500;
+}
+
+ul {
+    // list-style: none;
+    margin-bottom: 1rem;
+    padding-inline-start: 1.5rem;
+
+    li {
+        margin-bottom: 0.5rem;
+    }
+}
+
+ol {
+    padding-inline-start: 1rem;
+
+    li {
+        margin-bottom: 0.75rem;
+    }
+}
+
+div {
+    margin: 0.5rem auto;
+
+    a {
+        color: $orange;
+    }
+}
+
+h2 {
+    transition: all 300ms ease;
+
+    &:hover {
+        color: $red;
+    }
+
+    a {
+        color: $orange;
+        text-decoration: none;
+        cursor: default;
+    }
+}
+
+h3 {
+    a {
+        color: $orange;
+        text-decoration: none;
+        cursor: default;
+    }
+}
+
+h5 {
+    a {
+        color: $purple !important;
+
+        &:hover {
+            color: $purple-700 !important;
+        }
+    }
 }
