@@ -1,7 +1,10 @@
 ---
 title: Lemon Bars
 description: How to make lemon bars
-tags: ["desert", "snack", "sweet", "tart", "lemons"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "desert, snack, sweet, tart, lemons"
 ---
 
 # Lemon Bars

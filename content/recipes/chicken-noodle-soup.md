@@ -1,7 +1,10 @@
 ---
 title: Chicken Noodle Soup
 description: Make classic chicken noodle soup
-tags: ["spicy", "soup"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "spicy, soup"
 ---
 
 # Chicken Noodle Soup

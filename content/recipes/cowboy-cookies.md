@@ -1,7 +1,10 @@
 ---
 title: Cowboy Cookies
 description: Filling hearty cookies
-tags: ["hearty", "desert", "snack", "cookies", "pecans", "oats", "coconut"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "hearty, desert, snack, cookies, pecans, oats, coconut"
 ---
 
 # Cowboy Cookies

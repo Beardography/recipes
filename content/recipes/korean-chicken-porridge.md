@@ -1,7 +1,10 @@
 ---
 title: Korean Chicken Porridge
 description: A chicken version of Korean porridge
-tags: ["Korean", "Asian", "porridge", "soup", "chicken", "rice"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "Korean, Asian, porridge, soup, chicken, rice"
 ---
 
 # Korean Chicken Porridge

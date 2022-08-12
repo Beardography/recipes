@@ -1,7 +1,10 @@
 ---
 title: Teriyaki Chicken Rice Bowl
 description: How to make a quick and simple teriyaki chicken rice bowl with an air fryer
-tags: ["Asian", 'teriyaki', 'chicken', 'rice', 'air fryer']
+head:
+    meta:
+        - name: 'keywords'
+        - content: "Asian, teriyaki, chicken, rice, air fryer"
 ---
 
 # Teriyaki Chicken Rice Bowl

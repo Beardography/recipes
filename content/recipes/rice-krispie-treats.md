@@ -1,7 +1,10 @@
 ---
 title: Rice Krispie Treats
 description: A good crispy marshmallow snack
-tags: ["snack", "desert", "Rice Krispies", "Baking"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "snack, desert, Rice Krispies, baking"
 ---
 
 # Rice Krispie Treats

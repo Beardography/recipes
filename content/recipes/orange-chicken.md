@@ -1,7 +1,10 @@
 ---
 title: Orange Chicken
 description: How to make the classic orange chicken
-tags: ["chicken", "orange", "Asian"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "chicken, orange, Asian"
 ---
 
 # Orange Chicken

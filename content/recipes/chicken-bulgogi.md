@@ -1,7 +1,10 @@
 ---
 title: Chicken Bulgogi (Korean BBQ Chicken)
 description: How to make a chicken version of the classic bulgogi
-tags: ["chicken", "Asian", "Korean", "bulgogi"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: 'chicken, Asian, Korean, bulgogi'
 ---
 
 # Chicken Bulgogi (Korean BBQ Chicken)

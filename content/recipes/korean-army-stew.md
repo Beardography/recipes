@@ -1,7 +1,10 @@
 ---
 title: Korean Army Stew (Budae Jjigae)
 description: How to make quick and easy Korean Army Stew
-tags: ["Korean", "Army", "stew", "soup"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "Korean, Army, stew, soup"
 ---
 
 # Korean Army Stew (Budae Jjigae)
