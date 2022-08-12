@@ -1,5 +1,8 @@
 <template>
-    <main>
-        <ContentDoc />
-    </main>
+    <div>
+        <Nav/>
+        <main>
+            <ContentDoc />
+        </main>
+    </div>
 </template>
