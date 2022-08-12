@@ -1,8 +1,8 @@
 <template>
     <div>
         <Nav/>
-    <main>
-        <ContentDoc />
-    </main>
+        <main>
+            <ContentDoc />
+        </main>
     </div>
 </template>
