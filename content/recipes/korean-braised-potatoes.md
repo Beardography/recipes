@@ -1,7 +1,10 @@
 ---
 title: Korean Braised Potatoes (Gamja Jorim)
 description: Korean braised potatoes that go with any Korean meal
-tags: ["potatoes", "Korean", "Asian"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "potatoes, Korean, Asian"
 ---
 
 # Korean Braised Potatoes (Gamja Jorim)

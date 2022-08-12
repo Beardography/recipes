@@ -1,7 +1,10 @@
 ---
 title: Zucchini Bread
 description: Zucchini breead with cherries, chocolate, and cardamom
-tags: ["desert", "baking", "bread", "zucchini"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "desert, baking, bread, zucchini"
 ---
 
 # Zucchini Bread

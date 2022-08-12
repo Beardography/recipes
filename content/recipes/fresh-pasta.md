@@ -1,7 +1,10 @@
 ---
 title: Fresh Pasta
 description: This is a recipe on how to make fresh pasta
-tags: ["pasta"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "pasta"
 ---
 
 # Fresh Pasta

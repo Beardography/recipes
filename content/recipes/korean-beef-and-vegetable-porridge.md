@@ -1,7 +1,10 @@
 ---
 title: Korean Beef and Vegetable Porridge
 description: How to make one of the best soups
-tags: ["Korean", "Asian", "porridge", "soup", beef", "rice"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "Korean, Asian, porridge, soup, beef, rice"
 ---
 
 # Korean Beef and Vegetable Porridge

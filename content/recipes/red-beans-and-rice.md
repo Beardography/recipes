@@ -1,7 +1,10 @@
 ---
 title: Red Beans and Rice
 description: How to make red beans and rice
-tags: ["Andouille sausage", "beans", "Southern", "Cajun"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "Andouille sausage, beans, Southern, Cajun"
 ---
 
 # Red Beans and Rice

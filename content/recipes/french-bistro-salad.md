@@ -1,7 +1,10 @@
 ---
 title: French Bistro Salad
 description: How to make a French bistro-style salad
-tags: ["healthy", "salad", "French", "mustard"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "healthy, salad, French, mustard"
 ---
 
 # French Bistro Salad

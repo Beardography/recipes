@@ -1,7 +1,10 @@
 ---
 title: Christmas Sugar Cookies
 description: How to create Christmas sugar cookies
-tags: ["Christmas", "holidays", "Winter", "cookies", "desert", "snack"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "Christmas, holidays, Winter, cookies, desert, snack"
 ---
 
 # Christmas Sugar Cookies

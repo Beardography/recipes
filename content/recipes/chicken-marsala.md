@@ -1,7 +1,10 @@
 ---
 title: Chicken Marsala
 description: Make a classic Italian entree
-tags: ["Italian", "chicken", "mushrooms"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "Italian, chicken, mushrooms"
 ---
 
 # Chicken Marsala

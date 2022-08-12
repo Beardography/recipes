@@ -1,7 +1,10 @@
 ---
 title: No-Knead Sourdough
 description: How to make sourdough bread without the trouble of kneading it
-tags: ["bread", "sourdough", "snack"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "bread, sourdough, snack"
 ---
 
 # No-Knead Sourdough

@@ -1,7 +1,10 @@
 ---
 title: Wonton Chicken Noodle Soup
 description: How to make a quick and easy ramen soup with chicken and wontons
-tags: ["Wonton", "soup", "egg noodles", "Asian"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "Wonton, soup, egg noddles, Asian"
 ---
 
 # Wonton Chicken Noodle Soup

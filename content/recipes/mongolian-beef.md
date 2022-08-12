@@ -1,7 +1,10 @@
 ---
 title: Mongolian Beef
 description: How to make Mongolian beef
-tags: ["Mongolian", "Asian", "beef", "spicy"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "Mongolian, Asian, beef, spicy"
 ---
 
 # Mongolian Beef

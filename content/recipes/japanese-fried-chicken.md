@@ -1,7 +1,10 @@
 ---
 title: Japanese Fried Chicken (Karaage)
 description: How to make Japanese-style fried chicken
-tags: ["Japanese", "chicken", "Asian", "fried"]
+head:
+    meta:
+        - name: 'keywords'
+        - content: "Japanese, chicken, Asian, fried"
 ---
 
 # Japanese Fried Chicken (Karaage)
