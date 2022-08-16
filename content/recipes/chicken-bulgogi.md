@@ -4,7 +4,7 @@ description: How to make a chicken version of the classic bulgogi
 head:
     meta:
         - name: 'keywords'
-        - content: 'chicken, Asian, Korean, bulgogi'
+          content: 'chicken, Asian, Korean, bulgogi'
 ---
 
 # Chicken Bulgogi (Korean BBQ Chicken)

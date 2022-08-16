@@ -4,7 +4,7 @@ description: Make classic chicken noodle soup
 head:
     meta:
         - name: 'keywords'
-        - content: "spicy, soup"
+          content: "spicy, soup"
 ---
 
 # Chicken Noodle Soup

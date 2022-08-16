@@ -4,7 +4,7 @@ description: How to make lemon bars
 head:
     meta:
         - name: 'keywords'
-        - content: "desert, snack, sweet, tart, lemons"
+          content: "desert, snack, sweet, tart, lemons"
 ---
 
 # Lemon Bars

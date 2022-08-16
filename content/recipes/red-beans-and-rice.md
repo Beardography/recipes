@@ -4,7 +4,7 @@ description: How to make red beans and rice
 head:
     meta:
         - name: 'keywords'
-        - content: "Andouille sausage, beans, Southern, Cajun"
+          content: "Andouille sausage, beans, Southern, Cajun"
 ---
 
 # Red Beans and Rice

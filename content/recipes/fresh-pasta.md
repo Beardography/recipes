@@ -4,7 +4,7 @@ description: This is a recipe on how to make fresh pasta
 head:
     meta:
         - name: 'keywords'
-        - content: "pasta"
+          content: "pasta"
 ---
 
 # Fresh Pasta

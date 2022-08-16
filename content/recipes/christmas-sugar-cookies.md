@@ -4,7 +4,7 @@ description: How to create Christmas sugar cookies
 head:
     meta:
         - name: 'keywords'
-        - content: "Christmas, holidays, Winter, cookies, desert, snack"
+          content: "Christmas, holidays, Winter, cookies, desert, snack"
 ---
 
 # Christmas Sugar Cookies

@@ -4,7 +4,7 @@ description: How to make Mongolian beef
 head:
     meta:
         - name: 'keywords'
-        - content: "Mongolian, Asian, beef, spicy"
+          content: "Mongolian, Asian, beef, spicy"
 ---
 
 # Mongolian Beef

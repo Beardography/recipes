@@ -4,7 +4,7 @@ description: Zucchini breead with cherries, chocolate, and cardamom
 head:
     meta:
         - name: 'keywords'
-        - content: "desert, baking, bread, zucchini"
+          content: "desert, baking, bread, zucchini"
 ---
 
 # Zucchini Bread

@@ -4,7 +4,7 @@ description: A chicken version of Korean porridge
 head:
     meta:
         - name: 'keywords'
-        - content: "Korean, Asian, porridge, soup, chicken, rice"
+          content: "Korean, Asian, porridge, soup, chicken, rice"
 ---
 
 # Korean Chicken Porridge

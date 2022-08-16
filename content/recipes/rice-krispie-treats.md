@@ -4,7 +4,7 @@ description: A good crispy marshmallow snack
 head:
     meta:
         - name: 'keywords'
-        - content: "snack, desert, Rice Krispies, baking"
+          content: "snack, desert, Rice Krispies, baking"
 ---
 
 # Rice Krispie Treats

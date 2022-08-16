@@ -4,7 +4,7 @@ description: How to make a quick and simple teriyaki chicken rice bowl with an a
 head:
     meta:
         - name: 'keywords'
-        - content: "Asian, teriyaki, chicken, rice, air fryer"
+          content: "Asian, teriyaki, chicken, rice, air fryer"
 ---
 
 # Teriyaki Chicken Rice Bowl

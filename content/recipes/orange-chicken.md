@@ -4,7 +4,7 @@ description: How to make the classic orange chicken
 head:
     meta:
         - name: 'keywords'
-        - content: "chicken, orange, Asian"
+          content: "chicken, orange, Asian"
 ---
 
 # Orange Chicken

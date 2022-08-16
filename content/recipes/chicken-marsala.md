@@ -4,7 +4,7 @@ description: Make a classic Italian entree
 head:
     meta:
         - name: 'keywords'
-        - content: "Italian, chicken, mushrooms"
+          content: "Italian, chicken, mushrooms"
 ---
 
 # Chicken Marsala

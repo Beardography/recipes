@@ -4,7 +4,7 @@ description: How to make a Japanese beef rice bowl
 head:
     meta:
         - name: 'keywords'
-        - content: "Japanese, Asian, beef, rice, gyudon"
+          content: "Japanese, Asian, beef, rice, gyudon"
 ---
 
 # Japanese Beef Rice Bowl (Gyudon)

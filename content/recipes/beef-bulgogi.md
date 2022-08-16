@@ -4,7 +4,7 @@ description: How to make Korean BBQ beef
 head:
     meta:
         - name: 'keywords'
-        - content: "beef, protein, Korean, hot, spicy"
+          content: "beef, protein, Korean, hot, spicy"
 ---
 
 # Beef Bulgogi (Korean BBQ Beef)

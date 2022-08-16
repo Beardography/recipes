@@ -4,7 +4,7 @@ description: How to make a French bistro-style salad
 head:
     meta:
         - name: 'keywords'
-        - content: "healthy, salad, French, mustard"
+          content: "healthy, salad, French, mustard"
 ---
 
 # French Bistro Salad

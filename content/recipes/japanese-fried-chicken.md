@@ -4,7 +4,7 @@ description: How to make Japanese-style fried chicken
 head:
     meta:
         - name: 'keywords'
-        - content: "Japanese, chicken, Asian, fried"
+          content: "Japanese, chicken, Asian, fried"
 ---
 
 # Japanese Fried Chicken (Karaage)

@@ -4,7 +4,7 @@ description: How to make one of the best soups
 head:
     meta:
         - name: 'keywords'
-        - content: "Korean, Asian, porridge, soup, beef, rice"
+          content: "Korean, Asian, porridge, soup, beef, rice"
 ---
 
 # Korean Beef and Vegetable Porridge

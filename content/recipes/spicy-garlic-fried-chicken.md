@@ -4,7 +4,7 @@ description: How to make Korean spicy garlic fried chicken
 head:
     meta:
         - name: 'keywords'
-        - content: "Korean, Asian, fried, chicken, spicy"
+          content: "Korean, Asian, fried, chicken, spicy"
 ---
 
 # Spicy Garlic Fried Chicken
