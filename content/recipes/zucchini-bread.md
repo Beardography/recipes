@@ -1,6 +1,6 @@
 ---
 title: Zucchini Bread
-description: Zucchini breead with cherries, chocolate, and cardamom
+description: Zucchini bread with cherries, chocolate, and cardamom
 head:
     meta:
         - name: 'keywords'
