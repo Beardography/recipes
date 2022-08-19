@@ -5,6 +5,10 @@ body {
     margin: 0 auto;
 }
 
+.home {
+    column-count: 2;
+}
+
 a {
     color: $blue-500;
 }

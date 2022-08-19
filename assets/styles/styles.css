@@ -89,6 +89,11 @@ body {
   margin: 0 auto;
 }
 
+.home {
+  -moz-column-count: 2;
+       column-count: 2;
+}
+
 a {
   color: #78dce8;
 }
@@ -140,4 +145,67 @@ h5 a {
 }
 h5 a:hover {
   color: #675e91 !important;
+}
+
+@media (min-width: 319px) and (max-width: 576px) {
+  body {
+    width: 100%;
+    padding: 1rem;
+  }
+  body header {
+    padding: 0.5rem;
+  }
+  body header ul {
+    -webkit-padding-start: 0;
+            padding-inline-start: 0;
+    gap: 0.25rem;
+  }
+  body h1 {
+    margin: 1.5rem auto;
+    font-size: 2.5rem;
+  }
+  body h2 {
+    font-size: 1.75rem;
+    margin: 2rem auto 1rem auto;
+  }
+  body h3 {
+    font-size: 1.5rem;
+    margin: 1rem auto 0.5rem auto;
+  }
+}
+@media (min-width: 578px) and (max-width: 768px) {
+  body {
+    width: 100%;
+    padding: 2rem;
+  }
+  body h1 {
+    margin: 1.5rem auto;
+    font-size: 2.5rem;
+  }
+  body h2 {
+    font-size: 1.75rem;
+    margin: 2rem auto 1rem auto;
+  }
+  body h3 {
+    font-size: 1.5rem;
+    margin: 1rem auto 0.5rem auto;
+  }
+}
+@media (min-width: 769px) and (max-width: 992px) {
+  body {
+    width: 100%;
+    padding: 2rem;
+  }
+  body h1 {
+    margin: 1.5rem auto;
+    font-size: 2.5rem;
+  }
+  body h2 {
+    font-size: 1.75rem;
+    margin: 2rem auto 1rem auto;
+  }
+  body h3 {
+    font-size: 1.5rem;
+    margin: 1rem auto 0.5rem auto;
+  }
 }/*# sourceMappingURL=styles.css.map */
