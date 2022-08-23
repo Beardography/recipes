@@ -3,14 +3,15 @@
         <h1>
             <NuxtLink to="/"> Our Recipes </NuxtLink>
         </h1>
-        <ul>
+        <!-- <ul>
             <li>
                 <NuxtLink to="/about"> About </NuxtLink>
             </li>
             <li>
                 <NuxtLink to="#"> Donate </NuxtLink>
             </li>
-        </ul>
+        </ul> -->
+        <Search/>
     </header>
 </template>
 
