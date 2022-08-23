@@ -5,6 +5,6 @@ import { Static } from "vue";
 export default defineNuxtConfig({
     css: ["~/assets/styles/styles.css"],
     modules: ["@nuxt/content"],
-    ssr: false,
+    ssr: true,
     target: 'static'
 });
