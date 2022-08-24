@@ -8,5 +8,5 @@ export default defineNuxtConfig({
     target: "static",
     nitro: {
         preset: 'service-worker'
-    }
+    },
 });
