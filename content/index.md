@@ -9,7 +9,7 @@ head:
 
 # All Recipes
 
--   [Spicy Garlic Fried Chicken](./recipes/spicy-garlic-fried-chicken.md)
+<!-- -   [Spicy Garlic Fried Chicken](./recipes/spicy-garlic-fried-chicken.md)
 -   [Korean Chicken Porridge](/content/recipes/korean-chicken-porridge.md)
 -   [Chicken Bulgogi](/content/recipes/chicken-bulgogi.md)
 -   [Korean Beef and Vegetable Porridge](/content/recipes/korean-beef-and-vegetable-porridge.md)
@@ -30,4 +30,4 @@ head:
 -   [French Bistro Salad](/content/recipes/french-bistro-salad.md)
 -   [Fresh Pasta](/content/recipes/fresh-pasta.md)
 -   [Red Beans and Rice](/content/recipes/red-beans-and-rice.md)
--   [No-Knead Sourdough](/content/recipes/no-knead-sourdough.md)
+-   [No-Knead Sourdough](/content/recipes/no-knead-sourdough.md) -->
